@@ -10,12 +10,12 @@ Columns:
 =======
 
 activity - This field is a character field containing one of the six activity descriptions from the source data. Maximum field width is 18. Possible values are:
-	WALKING
-	WALKING_UPSTAIRS
-	WALKING_DOWNSTAIRS
-	SITTING
-	STANDING
-	LAYING 
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING 
 
 subject - This field is an integer field containing a unique identifier for each person in the study. Possible values in the data are 1-30.
 
